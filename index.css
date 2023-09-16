@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: red;
+}
+.container{
+  
+    height: 90px;
+    width: 300px;
+
+     display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+#result{
+     font-size: 25px;
+}
+#numberInput{
+    background-color: white;
+}
+.btn{
+    margin: 20px;
+}
+.btn:hover{
+    color: white;
+}
+input{
+    margin: 21px;
+}
